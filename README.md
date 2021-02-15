@@ -13,44 +13,44 @@ For any queries contact me through
 vaibhavshukla2017c@gmail.com
 
 ### LoginPage
-![alt text](https://github.com/ukbaranwal/Phms/blob/master/Screenshots/Screenshot%202019-05-11%20at%202.20.03%20PM.png)
+![alt text](https://github.com/ukbaranwal/Phms/Screenshots/Screenshot%202019-05-11%20at%202.20.03%20PM.png)
 
 ### Registration Page
-![alt text](https://github.com/ukbaranwal/Phms/blob/master/Screenshots/Screenshot%202019-05-11%20at%202.43.00%20PM.png)
+![alt text](https://github.com/ukbaranwal/Phms/Screenshots/Screenshot%202019-05-11%20at%202.43.00%20PM.png)
 
 ### Patient Details Window
-![alt text](https://github.com/ukbaranwal/Phms/blob/master/Screenshots/Screenshot%202019-05-11%20at%202.24.41%20PM.png)
+![alt text](https://github.com/ukbaranwal/Phms/Screenshots/Screenshot%202019-05-11%20at%202.24.41%20PM.png)
 
 ### To add new Patient Details
 #### - First Window
-![alt text](https://github.com/lksh97/Phms/blob/master/Screenshots/Screenshot%202019-05-11%20at%202.42.26%20PM.png)
+![alt text](https://github.com/lksh97/Phms/Screenshots/Screenshot%202019-05-11%20at%202.42.26%20PM.png)
 
 #### - Second Window
-![alt text](https://github.com/lksh97/Phms/blob/master/Screenshots/Screenshot%202019-05-11%20at%202.29.57%20PM.png)
+![alt text](https://github.com/lksh97/Phms/Screenshots/Screenshot%202019-05-11%20at%202.29.57%20PM.png)
 
 #### - Third Window 
-![alt text](https://github.com/lksh97/Phms/blob/master/Screenshots/Screenshot%202019-05-11%20at%202.30.20%20PM.png)
+![alt text](https://github.com/lksh97/Phms/Screenshots/Screenshot%202019-05-11%20at%202.30.20%20PM.png)
 
 ### Appointments Page
-![alt text](https://github.com/lksh97/Phms/blob/master/Screenshots/Screenshot%202019-05-11%20at%202.42.35%20PM.png)
+![alt text](https://github.com/lksh97/Phms/Screenshots/Screenshot%202019-05-11%20at%202.42.35%20PM.png)
 
 ### Details Page
-![alt text](https://github.com/lksh97/Phms/blob/master/Screenshots/Screenshot%202019-05-11%20at%202.35.25%20PM.png)
+![alt text](https://github.com/lksh97/Phms/Screenshots/Screenshot%202019-05-11%20at%202.35.25%20PM.png)
 
 ### Full Details
-![alt text](https://github.com/lksh97/Phms/blob/master/Screenshots/Screenshot%202019-05-11%20at%202.34.43%20PM.png)
-![alt text](https://github.com/lksh97/Phms/blob/master/Screenshots/Screenshot%202019-05-11%20at%202.34.05%20PM.png)
+![alt text](https://github.com/lksh97/Phms/Screenshots/Screenshot%202019-05-11%20at%202.34.43%20PM.png)
+![alt text](https://github.com/lksh97/Phms/Screenshots/Screenshot%202019-05-11%20at%202.34.05%20PM.png)
 
 ### Edit Details
-![alt text](https://github.com/lksh97/Phms/blob/master/Screenshots/Screenshot%202019-05-11%20at%202.34.43%20PM.png)
-![alt text](https://github.com/lksh97/Phms/blob/master/Screenshots/Screenshot%202019-05-11%20at%202.34.56%20PM.png)
-![alt text](https://github.com/lksh97/Phms/blob/master/Screenshots/Screenshot%202019-05-11%20at%202.35.01%20PM.png)
+![alt text](https://github.com/lksh97/Phms/Screenshots/Screenshot%202019-05-11%20at%202.34.43%20PM.png)
+![alt text](https://github.com/lksh97/Phms/Screenshots/Screenshot%202019-05-11%20at%202.34.56%20PM.png)
+![alt text](https://github.com/lksh97/Phms/Screenshots/Screenshot%202019-05-11%20at%202.35.01%20PM.png)
 
 ### Create an Appointment
-![alt text](https://github.com/lksh97/Phms/blob/master/Screenshots/Screenshot%202019-05-11%20at%202.35.20%20PM.png)
+![alt text](https://github.com/lksh97/Phms/Screenshots/Screenshot%202019-05-11%20at%202.35.20%20PM.png)
 
 ### Reminders
-![alt text](https://github.com/lksh97/Phms/blob/master/Screenshots/Screenshot%202019-05-11%20at%202.32.20%20PM.png)
+![alt text](https://github.com/lksh97/Phms/Screenshots/Screenshot%202019-05-11%20at%202.32.20%20PM.png)
 
 ### Patient Health Analysis
-![alt text](https://github.com/lksh97/Phms/blob/master/Screenshots/Screenshot%202019-05-11%20at%202.35.28%20PM.png)
+![alt text](https://github.com/lksh97/Phms/Screenshots/Screenshot%202019-05-11%20at%202.35.28%20PM.png)
