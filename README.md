@@ -13,13 +13,13 @@ For any queries contact me through
 vaibhavshukla2017c@gmail.com
 
 ### LoginPage
-![alt text](https://github.com/ukbaranwal/Phms/Screenshots/Screenshot%202019-05-11%20at%202.20.03%20PM.png)
+![alt text](https://github.com/lksh97/Phms/Screenshots/Screenshot%202019-05-11%20at%202.20.03%20PM.png)
 
 ### Registration Page
-![alt text](https://github.com/ukbaranwal/Phms/Screenshots/Screenshot%202019-05-11%20at%202.43.00%20PM.png)
+![alt text](https://github.com/lksh97/Phms/Screenshots/Screenshot%202019-05-11%20at%202.43.00%20PM.png)
 
 ### Patient Details Window
-![alt text](https://github.com/ukbaranwal/Phms/Screenshots/Screenshot%202019-05-11%20at%202.24.41%20PM.png)
+![alt text](https://github.com/lksh97/Phms/Screenshots/Screenshot%202019-05-11%20at%202.24.41%20PM.png)
 
 ### To add new Patient Details
 #### - First Window
