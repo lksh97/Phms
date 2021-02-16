@@ -24,8 +24,8 @@ import java.sql.ResultSet;
 import java.util.ResourceBundle;
 
 /*
-    Created by: Utkarsh Baranwal
- */
+    Created by: Vaibhav Shukla
+*/
 public class LoginFormController implements Initializable {
     @FXML
     private JFXTextField useridlogin;
@@ -130,5 +130,5 @@ public class LoginFormController implements Initializable {
 //    }
 }
 /*
-    Created by: Utkarsh Baranwal
- */
+    Created by: Vaibhav Shukla
+*/
