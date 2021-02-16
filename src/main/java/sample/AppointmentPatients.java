@@ -23,7 +23,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.ResourceBundle;
 /*
-    Created by: Utkarsh Baranwal
+    Created by: Vaibhav Shukla
  */
 public class AppointmentPatients implements Initializable {
     @FXML
@@ -372,5 +372,5 @@ public class AppointmentPatients implements Initializable {
     }
 }
 /*
-    Created by: Utkarsh Baranwal
+    Created by: Vaibhav Shukla
  */
