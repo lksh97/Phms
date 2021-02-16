@@ -24,7 +24,7 @@ import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.ResourceBundle;
 /*
-    Created by: Utkarsh Baranwal
+    Created by: Vaibhav Shukla
  */
 public class CreateAppointment implements Initializable {
     @FXML
@@ -175,5 +175,5 @@ public class CreateAppointment implements Initializable {
 
 }
 /*
-    Created by: Utkarsh Baranwal
+    Created by: Vaibhav Shukla
  */
