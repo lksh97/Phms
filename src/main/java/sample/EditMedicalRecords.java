@@ -22,8 +22,8 @@ import java.util.List;
 import java.util.ResourceBundle;
 
 /*
-    Created by: Utkarsh Baranwal
- */
+    Created by: Vaibhav Shukla
+*/
 public class EditMedicalRecords implements Initializable {
     @FXML
     private ListView<String> medicalrecordslist;
@@ -32,7 +32,7 @@ public class EditMedicalRecords implements Initializable {
     @FXML
     private Button btn_record;
     private static int ID;
-    private static final String PATH = "/Users/utkarsh/MedicalRecords/";
+    private static final String PATH = "/Users/vaibhav/MedicalRecords/";
     public static int getID() {
         return ID;
     }
@@ -135,5 +135,5 @@ public class EditMedicalRecords implements Initializable {
     }
 }
 /*
-    Created by: Utkarsh Baranwal
+    Created by: Vaibhav Shukla
  */
