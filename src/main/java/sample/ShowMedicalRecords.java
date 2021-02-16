@@ -25,7 +25,7 @@ public class ShowMedicalRecords implements Initializable {
     @FXML
     private Button btn_record;
     private static int ID;
-    static final String PATH = "/Users/utkarsh/MedicalRecords/";
+    static final String PATH = "/Users/vaibhav/MedicalRecords/";
     public static int getID() {
         return ID;
     }
@@ -39,7 +39,7 @@ public class ShowMedicalRecords implements Initializable {
         File f = null;
         medicalrecordlabel.setText("Patient ID : "+ID);
         try{
-            f=new File("/Users/utkarsh/MedicalRecords/patientID_"+ID);
+            f=new File("/Users/vaibhav/MedicalRecords/patientID_"+ID);
             list = f.list();
             ObservableList <String> observableList = FXCollections.observableArrayList(list);
             medicalrecordslist.setItems(observableList);
