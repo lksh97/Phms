@@ -8,8 +8,8 @@ import javafx.stage.StageStyle;
 import java.sql.Connection;
 import java.sql.Statement;
 /*
-    Created by: Utkarsh Baranwal
- */
+    Created by: Vaibhav Shukla
+*/
 public class LoginForm extends Application {
     public static void main(String[] args) {
 
@@ -29,5 +29,5 @@ public class LoginForm extends Application {
     }
 }
 /*
-    Created by: Utkarsh Baranwal
- */
+    Created by: Vaibhav Shukla
+*/
