@@ -21,7 +21,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.ResourceBundle;
 /*
-    Created by: Utkarsh Baranwal
+    Created by: Vaibhav Shukla
  */
 public class ArchivedAppointments implements Initializable {
     @FXML
@@ -314,5 +314,5 @@ public class ArchivedAppointments implements Initializable {
     }
 }
 /*
-    Created by: Utkarsh Baranwal
+    Created by: Vaibhav Shukla
  */
